@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julia Frolova</h1>
-<img align="center" width="800" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" alt="coding" >
+<img align="center" width="500" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" alt="coding" >
 <h3 align="center">A passionate Frontend Developer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frolovajulia13&label=Profile%20views&color=0e75b6&style=flat" alt="frolovajulia13" /> </p>
 
